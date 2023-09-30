@@ -20,3 +20,7 @@ Bueno principalmente la ayuda es voluntaria, esto es libre, si deseas desarrolla
 5. **¿Como puedo aparecer en la sección de Desarrolladores?**
 >Querer pertenecer y estar anclado en la parte de Desarrolladores, debes cumplir con el requisito de al menos haber aportado más de 3 veces, 
 si ya lo hiciste mandame un mensaje mencionando HC y se te agrega a la sección de Desarrolladores.
+
+6. **¿Gano alguna forma monetaria?**
+>Por el momento no estamos generando de alguna forma recursos monetarios, pero esto puede servir como practica a su experiencia y se lo puede implementar a su cv como
+miembro de Desarrollo web del Sitio de Ingenieria Industrial
