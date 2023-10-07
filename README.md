@@ -12,7 +12,7 @@ Bueno principalmente la ayuda es voluntaria, esto es libre, si deseas desarrolla
 >Bueno actualmente la página de Facebook hay una gran inmensa cantidad de estudiantes y ingenieros con el fin de aprender, la página fue creada con la intención de aportar libros dentro de la sección del foro.
 
 3. **¿En que se esta desarrollando la página web?**
->La página se esta desarrollando en HTML5, CSS3, JavaScript, Ajax, JQuery y Boostrap
+>La página se esta desarrollando con FrontEnd con los lenguajes HTML5, CSS3, JavaScript, JQuery y Boostrap 5
 
 4. **¿Que titulo le pongo al correo para aportar?**
 >Bueno aqui en github puedes subirlo y poner comentarios en la parte que agregaste los cambios, para tomarlo en cuenta, testear el cambio y actualizar la página.
